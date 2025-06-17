@@ -49,10 +49,10 @@ touch ./practice_dir_1/practice_dir_2/{practice_file1.txt,practice_file2.txt}
 cd ./practice_dir_1/practice_dir_2
 
 # 14. `practice_file1.txt`を2つ上の階層のディレクトリ(`LinuxCommandPractice`)へ**移動**してください。**但し、相対パスを使用してください。**
-mv practice_file1.txt ../..//.
+mv practice_file1.txt ../../.
 
 # 15. `practice_file2.txt`を2つ上の階層のディレクトリ(`LinuxCommandPractice`)へ**コピー**してください。**但し、相対パスを使用してください。**
-cp practice_file2.txt ../..//.
+cp practice_file2.txt ../../.
 
 # 16. カレントディレクトリの`practice_file2.txt`を削除してください。**但し、相対パスを使用してください。**
 rm practice_file2.txt
